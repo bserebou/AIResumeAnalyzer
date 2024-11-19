@@ -149,3 +149,5 @@ If you have found my softwares to be of any use to you, do consider helping me p
 
 # Stargazer over time
 [![Stargazers over time](https://starchart.cc/OmkarPathak/pyresparser.svg)](https://starchart.cc/OmkarPathak/pyresparser)
+
+add support for multiple remote urls
