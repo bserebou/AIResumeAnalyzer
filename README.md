@@ -151,3 +151,8 @@ If you have found my softwares to be of any use to you, do consider helping me p
 [![Stargazers over time](https://starchart.cc/OmkarPathak/pyresparser.svg)](https://starchart.cc/OmkarPathak/pyresparser)
 
 add support for multiple remote urls
+enhanced error handling for URL fetching
+add input validation
+updated tests to cover email validation
+added logging to track data extraction process and handle errors
+Enhanced get_local_data() to support user-specified file paths
