@@ -156,3 +156,7 @@ add input validation
 updated tests to cover email validation
 added logging to track data extraction process and handle errors
 Enhanced get_local_data() to support user-specified file paths
+
+git add projectroadmap.md
+git commit -m "Added projectroadmap.md to track progress."
+git push
